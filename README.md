@@ -17,4 +17,3 @@ This repository contains a full digital forensic investigation report for the **
 - Steghide
 - fcrackzip
 - Autopsy
-- Wireshark
